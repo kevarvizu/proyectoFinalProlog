@@ -78,3 +78,20 @@ __sonido__:- cambio_bocina,
 
 #resultados
 
+![](C:\Users\Kev\Desktop\imagenesProlog\inicio.png)
+![](C:\Users\Kev\Desktop\imagenesProlog\1.png)
+![](C:\Users\Kev\Desktop\imagenesProlog\2.png)
+![](C:\Users\Kev\Desktop\imagenesProlog\3.png)
+![](C:\Users\Kev\Desktop\imagenesProlog\4.png)
+![](C:\Users\Kev\Desktop\imagenesProlog\5.png)
+![](C:\Users\Kev\Desktop\imagenesProlog\6.png)
+
+#conclusiones
+
+En conclusión, nuestro sistema es capaz de brindarte una solución a lo que indica ser un problema automotriz. La inteligencia artificial del programa da la capacidad de, en base a preguntas y respuestas, guiarte hacia la posible solución del problema de tu auto. Se ha proporcionado el código de nuestro programa para que el usuario programador y con conocimientos en Prolog pueda implementar alguna modificación, mejora o corrección a nuestro programa.
+
+#referencias
+
+http://programacion-programacionlogica.blogspot.mx/
+
+
