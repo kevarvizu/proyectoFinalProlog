@@ -78,13 +78,13 @@ __sonido__:- cambio_bocina,
 
 #resultados
 
-![](C:\Users\Kev\Desktop\imagenesProlog\inicio.png)
-![](C:\Users\Kev\Desktop\imagenesProlog\1.png)
-![](C:\Users\Kev\Desktop\imagenesProlog\2.png)
-![](C:\Users\Kev\Desktop\imagenesProlog\3.png)
-![](C:\Users\Kev\Desktop\imagenesProlog\4.png)
-![](C:\Users\Kev\Desktop\imagenesProlog\5.png)
-![](C:\Users\Kev\Desktop\imagenesProlog\6.png)
+![](https://github.com/kevarvizu/proyectoFinalProlog/blob/master/imagenes/inicio.PNG)
+![](https://github.com/kevarvizu/proyectoFinalProlog/blob/master/imagenes/1.PNG)
+![](https://github.com/kevarvizu/proyectoFinalProlog/blob/master/imagenes/2.PNG)
+![](https://github.com/kevarvizu/proyectoFinalProlog/blob/master/imagenes/3.PNG)
+![](https://github.com/kevarvizu/proyectoFinalProlog/blob/master/imagenes/4.PNG)
+![](https://github.com/kevarvizu/proyectoFinalProlog/blob/master/imagenes/5.PNG)
+![](https://github.com/kevarvizu/proyectoFinalProlog/blob/master/imagenes/6.PNG)
 
 #conclusiones
 
