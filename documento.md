@@ -1,5 +1,5 @@
 #INTRODUCCIÓN
-##que es la pogramación lógica?
+##Que es la pogramación lógica?
 La Programación Lógica estudia el uso de la lógica para el planteamiento de problemas y el control sobre las reglas de inferencia para alcanzar la solución automática.
 
 La Programación Lógica, junto con la funcional, forma parte de lo que se conoce como Programación Declarativa, es decir la programación consiste en indicar como resolver un problema mediante sentencias, en la Programación Lógica, se trabaja en una forma descriptiva, estableciendo relaciones entre entidades, indicando no como, sino que hacer, entonces se dice que la idea esencial de la Programación Lógica es:
@@ -18,7 +18,7 @@ La programación lógica: construye base de conocimientos mediante reglas y hech
 
 Regla: implicación o inferencia lógica que deduce nuevo conocimiento, la regla permite definir nuevas relaciones apartir de otras ya existentes
 
-##campos de aplicación
+##Campos de aplicación
 
 * Sistemas Expertos , donde un Sistema de información mita las recomendaciones de un experto sobre algún dominio de conocimiento.
 
@@ -30,14 +30,14 @@ Regla: implicación o inferencia lógica que deduce nuevo conocimiento, la regla
 
 * Sistemas de información
 
-#problematica
-El problema considerado para este proyecto es una situacion sumamente cotidiana en la que si no todos, la mayoria de los usuarios la comparten. Esto es sufrir una falla automotriz. Una persona promedio con automovil sufre varias fallas mecanicas al año, con lo cual se dio a la tarea de emplear un software que de un diagnostico previo hacia su posible falla. 
+#Problematica
+El problema considerado para este proyecto es una situacion sumamente cotidiana en la que si no todos, la mayoria de los usuarios la comparten. Esto es sufrir una falla automotriz. Una persona promedio con automovil sufre varias fallas mecanicas al año, con lo cual se dio a la tarea de emplear un software que de un diagnostico previo hacia su posible falla.
 
-#justificación
+#Justificación
 
 La utilización de este sistema proveerá de un diagnóstico del automóvil, con el cual podremos tener una vista previa hacia una solución a la falla. Evitándonos cometer algún error humano o el ahorro de un chequeo para después corregir la falla. Se obtendrá una inclinación más rápida hacia el por qué el automóvil está fallando.
 
-#desarrollo
+#Desarrollo
 A continuación, se presentan las reglas que el sistema sigue para arrojar un diagnostico. cada banco de preguntas tienes una inclinación hacia un tipo de problema automotriz (**aceite, suspención, electrico, etc**) el cual tiene preguntas especificas, contestadas que si, arroja un diagnostico hacia el tipo de problema que tenga el auto.
 
 __aceite__:- cambio_aceite,
@@ -86,11 +86,11 @@ __sonido__:- cambio_bocina,
 ![](https://github.com/kevarvizu/proyectoFinalProlog/blob/master/imagenes/5.PNG)
 ![](https://github.com/kevarvizu/proyectoFinalProlog/blob/master/imagenes/6.PNG)
 
-#conclusiones
+#Conclusiones
 
 En conclusión, nuestro sistema es capaz de brindarte una solución a lo que indica ser un problema automotriz. La inteligencia artificial del programa da la capacidad de, en base a preguntas y respuestas, guiarte hacia la posible solución del problema de tu auto. Se ha proporcionado el código de nuestro programa para que el usuario programador y con conocimientos en Prolog pueda implementar alguna modificación, mejora o corrección a nuestro programa.
 
-#referencias
+#Referencias
 
 http://programacion-programacionlogica.blogspot.mx/
 
